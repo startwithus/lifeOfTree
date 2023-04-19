@@ -1,0 +1,41 @@
+.Work {
+    background-image: url('../../image/forest-1950402_1920.jpg');
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5rem;
+}
+
+.website {
+    color: #834c4c;
+    /* padding: 8rem; */
+    margin: 8rem;
+    line-height: 25px;
+}
+
+.website p{
+    margin: 1rem;
+    font-size: 18px;
+    font-size: 20px;
+
+}
+.planning {
+    font-size: 18px;
+}
+
+.planning ol {
+    margin-left: 5rem;
+    
+}
+.planning ul {
+    margin-left: 3rem;
+}
+.planning li {
+    padding: 1rem;
+    font-size: 20px;
+}
+.planning h4 {
+    margin: 1rem;
+}

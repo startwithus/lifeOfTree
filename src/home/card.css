@@ -1,0 +1,51 @@
+
+.support {
+    text-align: center;
+    padding: 2rem;
+    font-size: 24px;
+}
+.mainCard {
+margin-top: 4rem;
+
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+}
+.current {
+    width: 35%;
+    margin: auto;
+}
+.pic {
+    display: flex;
+   align-items: center;
+    color: #3D3D3D;
+    font-size: 14px;
+}
+.heading-box{
+    margin-left: 2rem;
+}
+.box{
+    border:1px solid green;
+    width: 4rem;
+    margin-top: 2rem;
+    
+}
+.para{
+    margin-left: 4.5rem;
+    width: 25rem;
+}
+.para h3{
+ 
+   font-size: 1rem;
+   color: #667EB5;
+    padding: 1rem; 
+    margin-bottom: 5rem;
+}
+.card {
+    border-bottom: 3px solid gray;
+    background-color: lightgoldenrodyellow;
+}
+
+.back{
+    background-color: #71BA09;
+}

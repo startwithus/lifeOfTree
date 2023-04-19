@@ -1,0 +1,32 @@
+.fact{
+    background-image: url('../../image/mushrooms-548360_1920.jpg');
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5rem;
+}
+.amount {
+    margin: 6rem;
+    font-size: 18px;
+    word-spacing: 0.5px;
+    /* line-height: 25px; */
+    color: #834c4c;
+
+}
+.amount h3 {
+    margin: 1rem;
+}
+.amount ul li {
+    margin: 1rem;
+    margin-left: 4rem;
+}
+
+.amount p {
+    margin-left: 3rem;
+    line-height: 30px;
+}
+.amount h2{
+    margin: 1rem;
+}

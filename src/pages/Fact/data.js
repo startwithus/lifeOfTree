@@ -1,0 +1,21 @@
+const data = [
+   " The amount of oxygen produced by an acre of trees per year equals the amount consumed by 18 people annually. One tree produces nearly 260 pounds of oxygen each year, which means two mature trees can supply enough oxygen annually to support a family of four! " ,
+   " A mature tree removes almost 70 times more pollution than a newly planted tree " ,
+   " One tree can absorb as much carbon in a year as a car produces while driving 26,000 miles " ,
+   " An average American uses about 750 pounds of paper every year, and 95% of homes are built using wood. That means each person uses the equivalent of one 100 foot tall, 16 inch diameter, tree every year for their paper and wood product needs " ,
+   " Trees keep our air supply fresh by absorbing carbon dioxide and producing oxygen " ,
+   " Trees lower air temperature by evaporating water in their leaves " ,
+   " The average tree in metropolitan area survives only about 8 years " ,
+   " A tree does not reach its most productive stage of carbon storage for about 10 years " ,
+   " Trees cut down noise pollution by acting as sound barriers " ,
+   " Tree roots stabilize the soil and prevent erosion " ,
+   " Trees improve water quality by slowing and filtering rain water as well as protecting aquifers and watersheds " ,
+   " Trees provide protection from downward fall of rain, sleet, and hail as well as reduce storm run-off and the possibility of flooding " ,
+   " Trees provide food and shelter for wildlife " ,
+   " Trees located along streets act as a glare and reflection control " ,
+   " One acre of trees removes up to 2.6 tons of carbon dioxide each year " ,
+   " Shade trees can make buildings up to 20 degrees cooler in the summer " ,
+   " For every five percent of tree cover added to a community, stormwater runoff is reduced by approximately two percent " ,
+   " Healthy trees provide wildlife habitat and contribute to the social and economic well-being of landowner and community residents. " ,
+]
+export default data

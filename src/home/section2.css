@@ -1,0 +1,148 @@
+.num{
+    /* margin: rem auto; */
+    margin-top: 2rem;
+    /* margin-left: 12rem; */
+    width: 100%;
+    border-bottom: 20px solid #71BA09;
+    
+}
+
+.num2 {
+display: flex;
+justify-content: center;
+height: 40vh;
+position: relative;
+z-index: 1;
+}
+.number{
+    margin: 0rem 4rem 0rem 4rem;
+    text-align: center;
+    color: green;
+    margin-top: 5rem ;
+   
+    
+}
+.number h2 {
+    font-size: 50px;
+
+}
+.number h3 {
+    font-size: 16px;
+    text-align: center;
+}
+.number img {
+    margin-top: 1rem;
+}
+
+.number2 {
+    margin: 0rem 4rem 0rem 4rem;
+    text-align: center;
+    color: green;
+    margin-top: 3rem;
+
+}
+.number2 h2 {
+    font-size: 50px;
+}
+.number2 h3 {
+    font-size: 16px;
+    text-align: center;
+}
+.number2 img{
+    margin-top: 1rem;
+}
+.number3 {
+    margin: 0rem 4rem 0rem 4rem;
+    text-align: center;
+    color: green;
+    margin-top: 0.5rem;
+}
+.number3 h2 {
+    font-size: 50px;
+}
+.number3 h3 {
+    font-size: 16px;
+    text-align: center;
+}
+.number3 img{
+    margin-top: 1rem;
+}
+.number4 {
+    margin: 0rem 4rem 0rem 4rem;
+    text-align: center;
+    color: green;
+    margin-top: 3.5rem ;
+}
+.number4 h2 {
+    font-size: 50px;
+}
+.number4 h3 {
+    font-size: 16px;
+    text-align: center;
+}
+.number4 img{
+    margin-top: 1rem;
+}
+
+
+.photo{
+    display: flex;
+    justify-content: center;
+    
+}
+.photo img{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    
+}
+
+.shop {
+    color: white;
+    text-align: center;
+    padding-top: 2rem;
+}
+.shop h1{
+    padding: 1rem;
+    font-size: 40px;
+}
+.shop h3 {
+    padding: 1rem;
+    font-size: 20px;
+}
+.pics2{
+    display: flex;
+   justify-content: center;
+   margin-top: 5rem;
+   margin-left: 4rem;
+
+}
+.dollar {
+    /* align-items: center; */
+    width: 30%;
+    position: relative;
+
+}
+.pic3{
+    display: flex;
+    position: absolute;
+    top: 15px;
+    margin-left: 2rem;
+    margin-top: 0.5rem;
+    width: 25%;
+}
+.dollar img {
+    width: 80%;
+}
+
+.date {
+    position: absolute;
+    top: 0.5rem;
+    left: 1.2rem;;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+

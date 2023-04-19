@@ -1,0 +1,28 @@
+.LifePage {
+    background-image: url('../../image/hd-wallpaper-3119826_1920.jpg');
+    width: 100%;
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 5rem;
+
+}
+.challenges {
+margin: 5rem;
+color: #666666;
+font-size: 18px;
+line-height: 25px;
+word-spacing: 0.1rem;
+}
+.level h3 {
+margin: 2rem;
+}
+.level ul{
+    margin: 2rem;
+   
+}
+.level li {
+    margin: 1rem;
+    font-size: 20px;
+}

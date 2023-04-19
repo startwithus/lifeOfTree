@@ -1,0 +1,47 @@
+.sec3 {
+    border-style: outset;
+    /* width: 30%; */
+   
+}
+
+.news {
+    margin-top: 5rem;
+    text-align: center;
+}
+.news img {
+    margin-top: 1rem;
+}
+.rate img{
+    margin-top: 3rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.trop {
+    text-align: center;
+    font-size: 24px;
+    color: gray;
+}
+.cen{
+    margin-top: 2rem;
+    
+    display: flex;
+    justify-content: center;
+}
+
+.view {
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 15px;
+    width: 200px;
+    height: 50px;
+    
+}
+
+.cen :hover {
+    background-color: brown;
+    cursor: pointer
+}

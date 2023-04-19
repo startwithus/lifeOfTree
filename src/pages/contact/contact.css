@@ -1,0 +1,12 @@
+.connect{
+    margin: 8rem;
+   color: #666666;
+}
+.connectUS {
+    font-size: 24px;
+}
+
+.location {
+    display: flex;
+    justify-content: space-between;
+}

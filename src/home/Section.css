@@ -1,0 +1,95 @@
+.can {
+    margin-top: 3rem;
+    text-align: center;
+}
+.can img{
+    padding: 1rem;
+}
+.can h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.click {
+    padding: 1rem;
+    color: gray;
+}
+
+
+.circle {
+    display: flex;
+    margin-top: 4rem;
+    justify-content: center;
+}
+.container {
+  display: flex; 
+  
+}
+.donation {
+    width: 20rem;
+    height: 20rem;
+    border: 1px solid black;
+    border-radius: 50%;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+}
+.container :hover {
+    background-color: brown;
+    color: white;
+    cursor: pointer;
+    transition:2s;
+    
+}
+.donation h3 {
+    margin: 2rem;
+}
+.pic2 {
+    background-color: green;
+    color: white;
+}
+
+.DonateUs{
+    align-items: center;
+    /* width: 30%; */
+    /* margin-left: 30rem; */
+    margin-top: 4rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.DonateUs h3 {
+    box-sizing: border-box;
+  width: 30%;
+  border: 5px solid green;
+  border: none;
+  border-radius: 25px;
+  float: left;
+  text-align: center;
+  padding: 0.5rem;
+  background-color: green;
+  color: white;
+}
+
+.DonateUs :hover {
+    background-color: brown;
+    cursor: pointer;
+}
+
+.life {
+    text-align: center;
+    margin-top: 4rem;
+    font-size: 200;
+}
+.life img{
+    padding: 1rem;
+}
+
+.life h3{
+    font-style: italic;
+    color: gray;
+}
+
+
+

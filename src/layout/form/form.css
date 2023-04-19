@@ -1,0 +1,122 @@
+.bloc-tabs {
+        display: flex;
+        justify-content: center;
+        border: none;
+        border-bottom: 1px solid gray;
+        padding: 1rem;
+        align-items: center;   
+        font-size: 22px;    
+    }
+
+.content-tabs{
+       display: flex;
+       justify-content: space-around;
+    }
+    .face-Book {
+        display: flex;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        /* line-height: 30px; */
+        text-align: center;
+         border-right: 1px solid #394D7D; 
+        background-color: #49639F;
+        color: white;
+        font-size: 22px;  
+
+    } 
+    .face-Book button {
+        width: 180px;
+        /* height: 30px; */
+        font-size: 18px;
+        text-decoration: none;
+         background-color: #49639F;
+         color: white;
+        border: none;
+        
+    }
+    .placeholder{
+        padding: 2.5rem;
+        text-align: center;
+        border: none;
+        /* width: 50%; */
+        /* margin-left: 5rem; */
+        border-bottom: 1px solid gray;
+    }
+    .placeholder input {
+        font-size: 24px;
+        border: none;
+        border-bottom: 1px solid gray;
+        margin: 1rem;
+        cursor: pointer;
+        
+      
+    }
+    .placeholder h3{
+        /* margin-top: 2rem; */
+        padding: 1rem;
+        font-size: 18px;
+        color: gray;
+        
+        
+       
+    }
+    .placeholder :hover{
+        cursor: pointer;
+
+    }
+    .container-button {
+          text-align: center;  
+          border: none;
+          /* border-bottom: 1px solid gray; */
+                    
+     } 
+
+     .container-button button {
+      
+        border: none;
+        background-color:#71BA09;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 18px;
+        margin: 8px 4px;
+        cursor: pointer;
+        border-radius: 32px;
+    }
+    .container-button :hover {
+        background-color: black;
+        color: white;
+    }
+    .container-button h3 {
+        color: gray; 
+     }  
+
+     .trans {
+        background-color:gray;
+        width: 100%;
+        opacity: .9;
+        position: fixed;
+        height: 100vh;
+        z-index: 1;
+     }
+     .trans-content {
+        width: 40%;
+        margin: 0.1rem auto;
+        background-color: white;
+        position: absolutes;
+        z-index: 2;
+    /* height: 500px; */
+     }
+
+     .circleForm {
+        background-color: DodgerBlue; 
+        border: none; 
+        color: white; 
+        padding: 0.5rem;
+        font-size: 24px; 
+        cursor: pointer; 
+        text-align: right;
+     }
